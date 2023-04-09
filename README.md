@@ -1,5 +1,7 @@
 # pythonProject5
 
+二层网路为set，主函数为main，结果得到的的分类器为Model及四个储存系数的表格
+
 训练：
 
 1.构建分类器
